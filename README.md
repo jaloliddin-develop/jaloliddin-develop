@@ -40,7 +40,4 @@
 
 <ul>
   <li>
-###<h1>🔥 My Stats:</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="shohame" /></p>
-  </li>
-</ul>
+
